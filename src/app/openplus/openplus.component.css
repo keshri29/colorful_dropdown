@@ -1,0 +1,47 @@
+/* .btn{
+    height: 10%;
+    width: 4%;
+    background:  rgb(132, 219, 132);
+    margin-left: 25%;
+    justify-content: center;
+    text-align: center;
+   
+}
+
+.main > btn > btn:hover{
+    background-color:#FCC;
+} */
+
+.dropdown-container {
+    position: relative;
+  }
+  
+  .plus-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .dropdown {
+    position: absolute;
+    top: 30px;
+    left: 0;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 5px;
+  }
+  
+  .input-box {
+    margin-top: 10px;
+  }
+  
+  .buttons button {
+    margin-right: 10px;
+  }
+  
+  .folder-plus {
+    margin-top: 10px;
+  }
+  
